@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.0.1] - 2026-10-04
+
+### Changed
+
+- Bump the optional `com.taoensso/nippy` dependency to 3.9.0.
+
 ## [3.0.0] - 2026-08-30
 
 ### Added
