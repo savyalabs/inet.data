@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.0.2] - 2026-11-03
+
+### Changed
+
+- Bump dependencies: optional transit-clj 1.1.367.
+
 ## [3.0.1] - 2026-10-04
 
 ### Changed
