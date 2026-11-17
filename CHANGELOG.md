@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.0.3] - 2026-11-16
+
+### Changed
+
+- Bump optional transit-clj to 1.2.372.
+
 ## [3.0.2] - 2026-11-03
 
 ### Changed
